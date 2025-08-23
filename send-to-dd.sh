@@ -1,4 +1,5 @@
 #!/bin/zsh 
-# This is a simple script to print a message
-echo "Hello, World!"
+# enter puppyweight in terminal 
+echo "Good Day! How much does little Goose weigh today?" 
+read puppyweight
 date +%s 
