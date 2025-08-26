@@ -18,7 +18,7 @@ curl -X POST "https://api.datadoghq.com/api/v2/series" \
 {
   "series": [
     {
-      "metric": "testpuppyweight",
+      "metric": "dog.weight",
       "type": 0,
       "points": [
         {
