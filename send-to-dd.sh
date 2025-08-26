@@ -8,7 +8,8 @@ TIMENOW=`date +%s`
 echo "What time of day is it? (morning or night)"
 read TIMEOFDAY
 
-echo "Nice Goose weighs $PUPPYWEIGHT lbs! He's growing up so fast $TIMENOW"
+echo "Nice Goose weighs $PUPPYWEIGHT lbs! He's growing up so fast!
+$TIMENOW"
 
 curl -X POST "https://api.datadoghq.com/api/v2/series" \
 -H "Accept: application/json" \
