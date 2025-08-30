@@ -3,4 +3,7 @@ Metrics to keep track of puppy (Goose) weight and how much kibble he is consumin
 - Using [Datadog sumbmit metrics API](https://docs.datadoghq.com/api/latest/metrics/#submit-metrics)
 
 
-TODO- add link to public DD puppy metric dashboard
+TODO
+- add link to public DD puppy metric dashboard
+- add body lenght metric and height metric to track growth
+  
